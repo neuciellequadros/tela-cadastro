@@ -91,7 +91,7 @@ export default function Formulario() {
               <SelectValue placeholder="Selecione..." />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="feminino">Feminino</SelectItem>
+              <SelectItem  value="feminino">Feminino</SelectItem>
               <SelectItem value="masculino">Masculino</SelectItem>
               <SelectItem value="outro">Outro</SelectItem>
             </SelectContent>
