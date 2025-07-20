@@ -18,7 +18,7 @@ export default function RegisterPage() {
             height={140}
             className="mb-2"
           />
-          <h1 className="text-xl font-semibold">Cadastro de Usuário</h1>
+          <h1 className="text-xl font-semibold  text-gray-800">Cadastro de Usuário</h1>
         </div>
         <Formulario />
       </div>

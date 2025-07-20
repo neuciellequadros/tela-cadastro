@@ -48,7 +48,7 @@ export default function Formulario() {
   };
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-3 ">
+    <form onSubmit={handleSubmit(onSubmit)} className="space-y-3  text-gray-800 ">
       <div>
         <Label>Nome completo *</Label>
         <Input type="text" {...register("nome")} />
